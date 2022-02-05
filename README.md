@@ -1,2 +1,3 @@
 # odin-recipes
-Piziza TIme
+PROJECT: RECIPES
+HTML Fundamentals
